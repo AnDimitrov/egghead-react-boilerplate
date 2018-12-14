@@ -9,5 +9,7 @@
   "devDependencies": {
     "webpack": "^4.27.1",
     "webpack-cli": "^3.1.2"
-  }
+  },
+  "repository": "https://github.com/AnDimitrov/egghead-react-boilerplate.git",
+  "author": "Anton D <mail@adimitrov.ru>"
 }
