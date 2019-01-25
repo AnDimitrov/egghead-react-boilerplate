@@ -21,7 +21,6 @@ class App extends React.Component {
     return (
       <div>
         <h1>Hello world!</h1>
-        <img alt="company logo" src="./logo.png" />
         <h2 className={count > 10 ? 'warning' : null}>Count: {count}</h2>
         <button onClick={this.increment}>+</button>
         <button onClick={this.decrement}>-</button>
